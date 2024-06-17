@@ -17,11 +17,15 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-black?style=flat-square&logo=dotnet)
+![SignalR](https://img.shields.io/badge/-signalr-black?style=flat-square&logo=signalr)
+![MassTransit](https://img.shields.io/badge/-masstransit-black?style=flat-square&logo=masstransit)
+![Redux](https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux)
 
 ### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ### Databases
@@ -41,7 +45,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 - **Software Engineer** at **Orbitax Bangladesh Limited**
   - _January 2023 - Present_
-  - **Technologies:** Angular, ASP.NET Core, MongoDB, SQL, RabbitMQ, Redis, AWS
+  - **Technologies:** React, Angular, ASP.NET Core, MongoDB, SQL, RabbitMQ, Redis, AWS
   - **Responsibilities:**
     - Leading a subteam to manage and enhance some products within a large-scale microservice application.
     - Mentoring junior software engineers to understand the codebase and develop production-ready services.
@@ -50,25 +54,33 @@ I am a passionate software engineer with a strong focus on full-stack web develo
   - _May 2021 - December 2022_
   - **Technologies:** Angular, ASP.NET Core, MongoDB
   - **Responsibilities:**
-    - Developing new features and resolving issues in existing features.
+    - Developed new features and resolved issues in existing features.
 
 ## 🚀 Projects
 
-### [Project 1 Name]
-
-[![Project 1 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project1)
-
-- **Description:** [Brief Description of Project 1]
-- **Technologies:** [Technologies Used in Project 1]
-- **Link:** [Project 1 Link]
-
-### [Project 2 Name]
+### NetflixGPT
 
 [![Project 2 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project2)
 
-- **Description:** [Brief Description of Project 2]
-- **Technologies:** [Technologies Used in Project 2]
-- **Link:** [Project 2 Link]
+- **Description:** A pet project to explore
+- **Technologies:** `React`, `Redux`, `TailwindCSS`, `Firebase`
+- **Link:** [Frontend](https://github.com/Bappy38/Netflix-GPT)
+
+### Food Delivery App
+
+[![Project 1 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project1)
+
+- **Description:** A pet project to explore
+- **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS EFS`, `AWS EBS`, `AWS ELB`
+- **Link:** [FrontEnd](https://github.com/Bappy38/FoodDelivery-Client) [Backend](https://github.com/Bappy38/FoodDelivery-Backend)
+
+### ECommerce App
+
+[![Project 2 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project2)
+
+- **Description:** A pet project to explore
+- **Technologies:** `Angular`, `ASP.NET Core`, `MongoDB`
+- **Link:** [Project](https://github.com/Bappy38/E-Commerce)
 
 ## 📈 GitHub Stats
 
@@ -78,19 +90,8 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 ## 🏆 Problem Solving Profiles
 
 [![Codeforces](https://img.shields.io/badge/-codeforces-gray?style=flat-square&logo=codeforces)](https://codeforces.com/profile/legendary_loser)
-[![Twitter](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website)](https://yourwebsite.com)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-## 🔖 Certifications
-
-- **[Certification 1]** - [Institution Name]
-- **[Certification 2]** - [Institution Name]
+[![Leetcode](https://img.shields.io/badge/-leetcode-gray?style=flat-square&logo=leetcode)](https://codeforces.com/profile/legendary_loser)
 
 ## ✍️ Blog Posts
 
-- [Blog Post 1](https://yourblog.com/blogpost1)
-- [Blog Post 2](https://yourblog.com/blogpost2)
+- [A Competitive Programming Blog](https://bappyscpworld.blogspot.com/)
