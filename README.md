@@ -60,7 +60,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ### NetflixGPT
 
-[![Project 2 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project2)
+<img src="Assets/NetflixGPTAppBanner.png" alt="NetflixGPT" width="400"/>
 
 - **Description:** A pet project to explore
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `Firebase`
@@ -68,15 +68,13 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ### Food Delivery App
 
-[![Project 1 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project1)
+<img src="Assets/FoodDeliveryAppBanner.png" alt="NetflixGPT" width="400"/>
 
 - **Description:** A pet project to explore
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS EFS`, `AWS EBS`, `AWS ELB`
 - **Link:** [FrontEnd](https://github.com/Bappy38/FoodDelivery-Client) [Backend](https://github.com/Bappy38/FoodDelivery-Backend)
 
 ### ECommerce App
-
-[![Project 2 Screenshot](https://via.placeholder.com/400)](https://github.com/yourusername/project2)
 
 - **Description:** A pet project to explore
 - **Technologies:** `Angular`, `ASP.NET Core`, `MongoDB`
