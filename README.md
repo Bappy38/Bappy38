@@ -74,7 +74,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS EFS`, `AWS EBS`, `AWS ELB`
 - **Link:** [FrontEnd](https://github.com/Bappy38/FoodDelivery-Client) [Backend](https://github.com/Bappy38/FoodDelivery-Backend)
 
-### ECommerce App
+### eCommerce
 
 - **Description:** A pet project to explore
 - **Technologies:** `Angular`, `ASP.NET Core`, `MongoDB`
