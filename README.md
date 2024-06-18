@@ -71,14 +71,14 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 <img src="Assets/FoodDeliveryAppBanner.png" alt="NetflixGPT" width="400"/>
 
 - **Description:** A pet project to explore
-- **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS EFS`, `AWS EBS`, `AWS ELB`
+- **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS ECR`, `AWS EFS`, `AWS EBS`, `AWS ELB`
 - **Link:** [FrontEnd](https://github.com/Bappy38/FoodDelivery-Client) [Backend](https://github.com/Bappy38/FoodDelivery-Backend)
 
-### eCommerce
+### eShop
 
-- **Description:** A pet project to explore
-- **Technologies:** `Angular`, `ASP.NET Core`, `MongoDB`
-- **Link:** [Project](https://github.com/Bappy38/E-Commerce)
+- **Description:** A pet project to explore microservice architecture
+- **Technologies:** `ASP.NET Core`, `RabbitMQ`, `Redis`, `gRPC`, `MongoDB`, `PostgreSQL`, `Docker`
+- **Link:** [Project](https://github.com/Bappy38/eShop)
 
 ## 📈 GitHub Stats
 
