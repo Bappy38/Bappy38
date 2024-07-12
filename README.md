@@ -60,7 +60,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ### Youtube2.0
 
-<img src="Assets/NetflixGPTAppBanner.png" alt="NetflixGPT" width="400"/>
+[<img src="Assets/Youtube 2.0 thumbnail.png" alt="NetflixGPT" width="400"/>](https://www.youtube.com/watch?v=pSSa69t7xO0)
 
 - **Description:** A youtube like dashboard
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `Youtube Data Api`
