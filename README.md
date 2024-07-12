@@ -68,7 +68,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ### NetflixGPT
 
-<img src="Assets/NetflixGPTAppBanner.png" alt="NetflixGPT" width="400"/>
+[<img src="Assets/NetflixGPTAppBanner.png" alt="NetflixGPT" width="400"/>](https://youtu.be/U22TI48HmdA)
 
 - **Description:** A pet project to explore
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `Firebase`
