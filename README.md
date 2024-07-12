@@ -58,6 +58,47 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ## 🚀 Projects
 
+### Youtube2.0
+
+In this project, I developed a YouTube-like dashboard with the following features:
+
+**Features Implemented**
+
+- **Header**: A responsive header with navigation elements.
+- **Sidebar**: A collapsible sidebar for easy navigation.
+- **Homepage**: Displays popular videos with an infinite scroll feature.
+- **Watch Page**: Includes a video player, comment section, and related videos section.
+- **Search Functionality**: Uses debounce and Redux store to optimize search suggestions and reduce API calls.
+- **Nested Comments**: Supports 2-level nested comments.
+- **Shimmer UI**: Displays shimmer effects during pending network calls.
+- **Live Chat**: Implements infinite scroll for live video chats, maintaining a fixed number of messages in the Redux store to avoid UI crashes.
+- **Category-wise Browsing**: Allows browsing videos by categories.
+
+**Technologies Explored**
+
+- **React**
+  - Functional Components
+  - Props
+  - Hooks:
+    - React Hooks: `useState`, `useRef`, `useEffect`
+    - Redux Hooks: `useSelector`, `useDispatch`
+    - React Router DOM: `useNavigate`, `useLocation`
+  - Creating Custom Hooks
+  - Routing with `react-router-dom`
+  - State Management
+
+- **Other Technologies**
+  - Tailwind CSS
+  - Redux Store
+  - YouTube API Integration
+
+**Deployment**
+
+- Deployed the React app on Vercel.
+- Deployed the React app on AWS using AWS Amplify with CI/CD.
+  
+---
+
 ### NetflixGPT
 
 <img src="Assets/NetflixGPTAppBanner.png" alt="NetflixGPT" width="400"/>
@@ -65,6 +106,8 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 - **Description:** A pet project to explore
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `Firebase`
 - **Link:** [Frontend](https://github.com/Bappy38/Netflix-GPT)
+
+---
 
 ### Food Delivery App
 
@@ -74,11 +117,15 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 - **Technologies:** `React`, `Redux`, `TailwindCSS`, `ASP.NET Core`, `PostgreSQL`, `Vercel`, `Render`, `AWS EC2`, `AWS ECR`, `AWS EFS`, `AWS EBS`, `AWS ELB`
 - **Link:** [FrontEnd](https://github.com/Bappy38/FoodDelivery-Client) [Backend](https://github.com/Bappy38/FoodDelivery-Backend)
 
+---
+
 ### eShop
 
 - **Description:** A pet project to explore microservice architecture
 - **Technologies:** `ASP.NET Core`, `RabbitMQ`, `Redis`, `gRPC`, `MongoDB`, `PostgreSQL`, `Docker`
 - **Link:** [Project](https://github.com/Bappy38/eShop)
+
+---
 
 ## 📈 GitHub Stats
 
