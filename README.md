@@ -58,6 +58,14 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ## 🚀 Projects
 
+### ByteBox
+
+[<img src="Assets/ByteBox Thumbnail.png" alt="ByteBox" width="400"/>](https://github.com/Bappy38/bytebox.dashboard)
+
+- **Description:** A cloud-based file storage and sharing platform designed to provide users with a seamless and secure way to store, manage, and share files. Inspired by popular cloud storage service like Google Drive.
+- **Technologies:** `React`, `Redux`, `TailwindCSS`, `.NET Core`, `SQL Server`, `AWS SQS`, `AWS Lambda`, `AWS S3`, `AWS EC2`, `AWS ECR`, `Azure App Service`, `Azure SQL`
+- **Link:** [FrontEnd](https://github.com/Bappy38/bytebox.dashboard) [Backend](https://github.com/Bappy38/ByteBox.FileStore) [ServerLess Thumbnail Generator](https://github.com/Bappy38/Bytebox.Lambdas) [Wrapper Libraries](https://github.com/Bappy38/NexaWrap.NET)
+
 ### Youtube2.0
 
 [<img src="Assets/Youtube 2.0 thumbnail.png" alt="NetflixGPT" width="400"/>](https://www.youtube.com/watch?v=pSSa69t7xO0)
