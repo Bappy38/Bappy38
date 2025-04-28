@@ -14,9 +14,10 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 ### Frameworks and Libraries
 
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-black?style=flat-square&logo=dotnet)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-black?style=flat-square&logo=dotnet)
 ![SignalR](https://img.shields.io/badge/-signalr-black?style=flat-square&logo=signalr)
 ![MassTransit](https://img.shields.io/badge/-masstransit-black?style=flat-square&logo=masstransit)
 ![Redux](https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux)
@@ -27,6 +28,7 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
 
 ### Databases
 
@@ -45,14 +47,14 @@ I am a passionate software engineer with a strong focus on full-stack web develo
 
 - **Software Engineer** at **Orbitax Bangladesh Limited**
   - _January 2023 - Present_
-  - **Technologies:** React, Angular, ASP.NET Core, MongoDB, SQL, RabbitMQ, Redis, AWS
+  - **Technologies:** ASP.NET Core, Node.JS, React, Angular, MongoDB, SQL Server, RabbitMQ, Redis, AWS, Azure
   - **Responsibilities:**
     - Leading a subteam to manage and enhance some products within a large-scale microservice application.
     - Mentoring junior software engineers to understand the codebase and develop production-ready services.
 
 - **Associate Software Engineer** at **Orbitax Bangladesh Limited**
   - _May 2021 - December 2022_
-  - **Technologies:** Angular, ASP.NET Core, MongoDB
+  - **Technologies:** ASP.NET Core, Angular, MongoDB
   - **Responsibilities:**
     - Developed new features and resolved issues in existing features.
 
